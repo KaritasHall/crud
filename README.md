@@ -2,9 +2,9 @@
 
 I made a to-do list where a user can add, delete and edit a task.
 
-The files you want to look at:
-Server => functions/ index.js </br>
-Frontend => src/ App.js
+The files you want to look at: </br>
+[Server](functions/index.js) </br>
+[Frontend](src/App.js)
 
 Live site: https://crud-project-930c5.web.app/
 
